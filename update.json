@@ -1,0 +1,7 @@
+{
+  "version": "8.8.0",
+  "build": 16,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.8.0/ultimateV16.apk",
+  "changelog": "• Lecteur VLC (4K fluide)\n• Barre de progression : curseur visible, avance rapide L/R\n• Boutons du lecteur atteignables au D-pad\n• Version affichée dans les Réglages",
+  "mandatory": false
+}
