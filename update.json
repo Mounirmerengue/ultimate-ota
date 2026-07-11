@@ -1,7 +1,7 @@
 {
-  "version": "8.9.5",
-  "build": 22,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.5/ultimateV22.apk",
-  "changelog": "• Guide EPG complet (scrollable)\n• Synchronisation cloud des préférences (compte email)\n• Tous les correctifs lecteur/liste v8.9.4",
+  "version": "8.9.6",
+  "build": 23,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.6/ultimateV23.apk",
+  "changelog": "• App bien plus légère (installable sur Fire Stick)\n• Connexion par code e-mail (sync + support)\n• Guide EPG complet\n• Tous les correctifs lecteur/liste",
   "mandatory": false
 }
