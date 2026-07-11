@@ -1,7 +1,7 @@
 {
-  "version": "8.9.0",
-  "build": 17,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.0/ultimateV17.apk",
-  "changelog": "• Lecteur VLC (4K)\n• Barre de progression : curseur visible, avance rapide L/R\n• Boutons du lecteur atteignables au D-pad\n• Synchronisation cloud (compte, profils, reprise, favoris)\n• Version affichée dans les Réglages",
+  "version": "8.9.3",
+  "build": 20,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.3/ultimateV20.apk",
+  "changelog": "• 4K fluide + lecteur stabilisé (son, reprise film, centrage)\n• Sous-titres + taille mémorisée, format vidéo\n• Cache images + bouton actualiser catalogue\n• Reprendre en onglets Films/Séries + reprise directe\n• Liste chaînes plein écran corrigée",
   "mandatory": false
 }
