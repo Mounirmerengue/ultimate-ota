@@ -1,7 +1,7 @@
 {
-  "version": "8.9.6",
-  "build": 23,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.6/ultimateV23.apk",
-  "changelog": "• App bien plus légère (installable sur Fire Stick)\n• Connexion par code e-mail (sync + support)\n• Guide EPG complet\n• Tous les correctifs lecteur/liste",
+  "version": "8.9.8",
+  "build": 25,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.8/ultimateV25.apk",
+  "changelog": "• Lecteur : reprise fiable, format d'image (Ajusté/16:9/4:3), langue & sous-titres sans blocage, taille des sous-titres\n• Navigation D-pad corrigée\n• Recherche films & séries dans tout le catalogue\n• Connexion par code e-mail\n• Nombreuses corrections de stabilité",
   "mandatory": false
 }
