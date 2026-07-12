@@ -1,7 +1,7 @@
 {
-  "version": "8.9.8",
-  "build": 25,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.8/ultimateV25.apk",
-  "changelog": "• Lecteur : reprise fiable, format d'image (Ajusté/16:9/4:3), langue & sous-titres sans blocage, taille des sous-titres\n• Navigation D-pad corrigée\n• Recherche films & séries dans tout le catalogue\n• Connexion par code e-mail\n• Nombreuses corrections de stabilité",
+  "version": "8.9.9",
+  "build": 26,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.9/ultimateV26.apk",
+  "changelog": "• Connexion par lien M3U (en plus des identifiants)\n• Corrections de stabilité du lecteur\n• Diagnostics améliorés pour le support",
   "mandatory": false
 }
