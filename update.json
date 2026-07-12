@@ -1,7 +1,7 @@
 {
-  "version": "8.9.9",
-  "build": 26,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.9/ultimateV26.apk",
-  "changelog": "• Connexion par lien M3U (en plus des identifiants)\n• Corrections de stabilité du lecteur\n• Diagnostics améliorés pour le support",
+  "version": "8.9.10",
+  "build": 27,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.10/ultimateV27.apk",
+  "changelog": "• Favoris dans Replay\n• EPG plus rapide au lancement + sans doublons\n• Recherche films/séries corrigée\n• Connexion par lien M3U\n• Corrections de stabilité",
   "mandatory": false
 }
