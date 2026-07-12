@@ -1,7 +1,7 @@
 {
-  "version": "8.9.10",
-  "build": 27,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.10/ultimateV27.apk",
-  "changelog": "• Favoris dans Replay\n• EPG plus rapide au lancement + sans doublons\n• Recherche films/séries corrigée\n• Connexion par lien M3U\n• Corrections de stabilité",
+  "version": "8.9.11",
+  "build": 1023,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.11/ultimateV1023.apk",
+  "changelog": "• Mise à jour importante (débloque les mises à jour futures)\n• Favoris dans Replay\n• EPG plus rapide, sans doublons\n• Recherche films/séries corrigée\n• Connexion par lien M3U\n• Corrections de stabilité",
   "mandatory": false
 }
