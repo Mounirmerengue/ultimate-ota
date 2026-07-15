@@ -2,6 +2,6 @@
   "version": "8.9.13",
   "build": 1025,
   "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.13/ultimateV1025.apk",
-  "changelog": "• Grille EPG façon Canal+ avec guide TV amélioré\n• Infrastructure multilingue (9 langues)\n• Thème personnalisable (alpha)\n• Corrections lecteur, démarrage, séries, favoris\n• Cache EPG optimisé",
+  "changelog": "• Grille EPG améliorée avec guide TV personnalisé\n• Infrastructure multilingue (9 langues)\n• Thème personnalisable (alpha)\n• Corrections lecteur, démarrage, séries, favoris\n• Cache EPG optimisé",
   "mandatory": false
 }
