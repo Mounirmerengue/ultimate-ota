@@ -1,7 +1,7 @@
 {
-  "version": "8.9.3",
-  "build": 20,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.3/ultimateV20.apk",
-  "changelog": "• 4K fluide + lecteur stabilisé (son, reprise film, centrage)\n• Sous-titres + taille mémorisée, format vidéo\n• Cache images + bouton actualiser catalogue\n• Reprendre en onglets Films/Séries + reprise directe\n• Liste chaînes plein écran corrigée",
+  "version": "8.9.13",
+  "build": 1025,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.13/ultimateV1025.apk",
+  "changelog": "• Grille EPG façon Canal+ avec guide TV amélioré\n• Infrastructure multilingue (9 langues)\n• Thème personnalisable (alpha)\n• Corrections lecteur, démarrage, séries, favoris\n• Cache EPG optimisé",
   "mandatory": false
 }
