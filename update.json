@@ -1,7 +1,7 @@
 {
-  "version": "8.9.13",
-  "build": 1025,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.13/ultimateV1025.apk",
-  "changelog": "• Grille EPG améliorée avec guide TV personnalisé\n• Infrastructure multilingue (9 langues)\n• Thème personnalisable (alpha)\n• Corrections lecteur, démarrage, séries, favoris\n• Cache EPG optimisé",
+  "version": "8.9.14",
+  "build": 1026,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.14/ultimateV1026.apk",
+  "changelog": "• Branding Noria intégré\n• Infrastructure multilingue (9 langues)\n• Thème couleur personnalisable\n• Grille EPG programme TV améliorée\n• Corrections lecteur, démarrage, séries, favoris",
   "mandatory": false
 }
