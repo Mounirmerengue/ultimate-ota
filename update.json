@@ -1,7 +1,7 @@
 {
-  "version": "8.9.14",
-  "build": 1026,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.14/ultimateV1026.apk",
-  "changelog": "• Branding Noria intégré\n• Infrastructure multilingue (9 langues)\n• Thème couleur personnalisable\n• Grille EPG programme TV améliorée\n• Corrections lecteur, démarrage, séries, favoris",
+  "version": "8.9.15",
+  "build": 1027,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.15/ultimateV1027.apk",
+  "changelog": "• Correction du crash à l'ouverture d'une fiche série\n• Correction du crash à l'ouverture de certains films\n• Correction des pochettes manquantes dans Derniers ajoutés\n• Nouveau : historique des chaînes (option dans Réglages)\n• Nouveau : personnalisation des profils (icône et couleur)\n• Sélecteur de profil accessible depuis la barre du haut\n• Amélioration du tri par date (format ISO)\n• Nouveau logo Noria dans la barre du haut",
   "mandatory": false
 }
