@@ -1,7 +1,7 @@
 {
-  "version": "8.9.15",
-  "build": 1027,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.15/ultimateV1027.apk",
-  "changelog": "• Correction du crash à l'ouverture d'une fiche série\n• Correction du crash à l'ouverture de certains films\n• Correction des pochettes manquantes dans Derniers ajoutés\n• Nouveau : historique des chaînes (option dans Réglages)\n• Nouveau : personnalisation des profils (icône et couleur)\n• Sélecteur de profil accessible depuis la barre du haut\n• Amélioration du tri par date (format ISO)\n• Nouveau logo Noria dans la barre du haut",
+  "version": "8.9.16",
+  "build": 1028,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.16/ultimateV1028.apk",
+  "changelog": "• Nom du profil affiché sous l'avatar de la barre de navigation\n• Correction de la touche BACK sur les formulaires et la recherche\n• Logo Noria agrandi dans la barre de navigation\n• Boîte de dialogue de changement de fournisseur avec migration des favoris et historique\n• Cloud sync réactivé (données utilisateur synchronisées avec Supabase)",
   "mandatory": false
 }
