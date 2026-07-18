@@ -1,7 +1,7 @@
 {
-  "version": "8.9.16",
-  "build": 1028,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.16/ultimateV1028.apk",
-  "changelog": "• Nom du profil affiché sous l'avatar de la barre de navigation\n• Correction de la touche BACK sur les formulaires et la recherche\n• Logo Noria agrandi dans la barre de navigation\n• Boîte de dialogue de changement de fournisseur avec migration des favoris et historique\n• Cloud sync réactivé (données utilisateur synchronisées avec Supabase)",
+  "version": "8.9.17",
+  "build": 1029,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.17/ultimateV1029.apk",
+  "changelog": "• Cloud sync fixes, parental control categories, item-level content filtering",
   "mandatory": false
 }
