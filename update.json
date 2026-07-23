@@ -1,7 +1,7 @@
 {
-  "version": "8.9.17",
-  "build": 1029,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.17/ultimateV1029.apk",
-  "changelog": "• Cloud sync fixes, parental control categories, item-level content filtering",
+  "version": "8.9.18",
+  "build": 1030,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.18/ultimateV1030.apk",
+  "changelog": "• Logo transparent partout + nouvelle vidéo d'intro 4K (plein écran, ne coupe plus avant la fin)\n• Mode Jour (thème clair) terminé sur Live TV, Films, Séries, Reprendre, Replay et le Guide TV\n• Nouvel effet visuel sur les rails (ombre en Mode Jour) et séparation entre chaque chaîne/catégorie\n• Page Profil complète avec gestion du code PIN parental\n• Synchronisation des fournisseurs IPTV dans les deux sens (web ↔ TV) — un fournisseur ajouté sur le tableau de bord web ou une autre TV n'a plus besoin d'être ressaisi",
   "mandatory": false
 }
