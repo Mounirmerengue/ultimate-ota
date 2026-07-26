@@ -1,7 +1,7 @@
 {
-  "version": "8.9.18",
-  "build": 1030,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.18/ultimateV1030.apk",
-  "changelog": "• Logo transparent partout + nouvelle vidéo d'intro 4K (plein écran, ne coupe plus avant la fin)\n• Mode Jour (thème clair) terminé sur Live TV, Films, Séries, Reprendre, Replay et le Guide TV\n• Nouvel effet visuel sur les rails (ombre en Mode Jour) et séparation entre chaque chaîne/catégorie\n• Page Profil complète avec gestion du code PIN parental\n• Synchronisation des fournisseurs IPTV dans les deux sens (web ↔ TV) — un fournisseur ajouté sur le tableau de bord web ou une autre TV n'a plus besoin d'être ressaisi",
+  "version": "8.9.19",
+  "build": 1031,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.19/ultimateV1031.apk",
+  "changelog": "• Nouvelle refonte du layout mobile (portrait/paysage) sur Live TV, VOD, Séries et Replay\n• Nouveau Guide TV (grille chaîne x horaire) accessible depuis Live TV\n• Correction: la sync cloud ne remplace plus silencieusement vos favoris/historique si le compte cloud est lié à un autre fournisseur IPTV — confirmation demandée\n• Diverses corrections de stabilité (i18n messages d'erreur, contraste des boutons)",
   "mandatory": false
 }
