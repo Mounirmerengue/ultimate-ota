@@ -1,7 +1,7 @@
 {
-  "version": "8.9.20",
-  "build": 1032,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.20/ultimateV1032.apk",
-  "changelog": "• Synchronisation multi-appareil des profils, préférences, favoris, reprises et catégories personnalisées\n• Démarrage accéléré avec cache et actualisation en arrière-plan\n• Enregistrements Live immédiats et programmés avec marges avant/après\n• Nouvel accès Enregistrements et paramètres réorganisés sur mobile/tablette\n• Correctifs du lecteur, des catégories et de la gestion des connexions fournisseur",
+  "version": "8.9.22",
+  "build": 1034,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.22/ultimateV1034.apk",
+  "changelog": "• Synchronisation multi-appareil des profils, préférences, favoris, reprises et catégories personnalisées\n• Enregistrements Live plus légers et programmation manuelle par date, heure et durée\n• Fichiers d’enregistrement avec taille et suppression par appui long de la télécommande\n• Correctifs de démarrage du scheduler et de fermeture du lecteur\n• Améliorations Live, catégories, paramètres mobile/tablette et gestion des connexions fournisseur",
   "mandatory": false
 }
