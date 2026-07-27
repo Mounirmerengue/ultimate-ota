@@ -1,7 +1,7 @@
 {
-  "version": "8.9.19",
-  "build": 1031,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.19/ultimateV1031.apk",
-  "changelog": "• Nouvelle refonte du layout mobile (portrait/paysage) sur Live TV, VOD, Séries et Replay\n• Nouveau Guide TV (grille chaîne x horaire) accessible depuis Live TV\n• Correction: la sync cloud ne remplace plus silencieusement vos favoris/historique si le compte cloud est lié à un autre fournisseur IPTV — confirmation demandée\n• Diverses corrections de stabilité (i18n messages d'erreur, contraste des boutons)",
+  "version": "8.9.20",
+  "build": 1032,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.20/ultimateV1032.apk",
+  "changelog": "• Synchronisation multi-appareil des profils, préférences, favoris, reprises et catégories personnalisées\n• Démarrage accéléré avec cache et actualisation en arrière-plan\n• Enregistrements Live immédiats et programmés avec marges avant/après\n• Nouvel accès Enregistrements et paramètres réorganisés sur mobile/tablette\n• Correctifs du lecteur, des catégories et de la gestion des connexions fournisseur",
   "mandatory": false
 }
