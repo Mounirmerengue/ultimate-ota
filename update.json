@@ -1,7 +1,7 @@
 {
-  "version": "8.9.22",
-  "build": 1034,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.22/ultimateV1034.apk",
-  "changelog": "• Synchronisation multi-appareil des profils, préférences, favoris, reprises et catégories personnalisées\n• Enregistrements Live plus légers et programmation manuelle par date, heure et durée\n• Fichiers d’enregistrement avec taille et suppression par appui long de la télécommande\n• Correctifs de démarrage du scheduler et de fermeture du lecteur\n• Améliorations Live, catégories, paramètres mobile/tablette et gestion des connexions fournisseur",
+  "version": "8.9.24",
+  "build": 1036,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.24/ultimateV1036.apk",
+  "changelog": "• Calendrier sportif optionnel avec ligues, événements, résultats et classements\n• Synchronisation des réglages Sports entre le dashboard et le Player\n• Programmation DVR simplifiée avec sélecteurs séparés pour les heures et les minutes\n• Correctifs de synchronisation des profils et préférences multi-appareils\n• Connexion Google et Apple préparée via Supabase (activation fournisseur requise)",
   "mandatory": false
 }
