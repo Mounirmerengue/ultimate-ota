@@ -1,7 +1,7 @@
 {
-  "version": "8.9.25",
-  "build": 1037,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.25/ultimateV1037.apk",
-  "changelog": "• Contraste corrigé pour les onglets et menus en thème clair\n• Boutons de programmation DVR alignés sur la couleur d’accent\n• Transition de démarrage Noria fluide sans roue bleue parasite\n• Calendrier sportif, résultats et synchronisation Sports dashboard/Player\n• Correctifs de synchronisation des profils et préférences multi-appareils",
+  "version": "8.9.30",
+  "build": 1043,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.30/ultimateV1043.apk",
+  "changelog": "• Enregistrement TV amélioré, plus fiable\n• Synchronisation multi-appareils renforcée\n• Chromecast plus stable\n• Corrections diverses",
   "mandatory": false
 }
