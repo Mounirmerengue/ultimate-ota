@@ -1,7 +1,17 @@
 {
-  "version": "8.9.30",
-  "build": 1043,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.30/ultimateV1043.apk",
-  "changelog": "• Enregistrement TV amélioré, plus fiable\n• Synchronisation multi-appareils renforcée\n• Chromecast plus stable\n• Corrections diverses",
+  "version": "8.9.32",
+  "build": 1045,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.32/ultimateV1045.apk",
+  "apkUrls": {
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.32/ultimateV1045-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.32/ultimateV1045-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.32/ultimateV1045-x86_64.apk"
+  },
+  "apkBuilds": {
+    "arm64-v8a": 3045,
+    "armeabi-v7a": 2045,
+    "x86_64": 5045
+  },
+  "changelog": "• Choix de la langue et du pays au premier lancement\n• Avatars de profils mieux cadrés et plus lisibles\n• Mise à jour plus légère, adaptée automatiquement à votre appareil\n• Corrections de stabilité et d’affichage",
   "mandatory": false
 }
