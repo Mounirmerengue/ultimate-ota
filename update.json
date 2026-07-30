@@ -1,17 +1,17 @@
 {
-  "version": "8.9.32",
-  "build": 1045,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.32/ultimateV1045.apk",
+  "version": "9.0.0",
+  "build": 1046,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.0/ultimateV1046.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.32/ultimateV1045-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.32/ultimateV1045-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v8.9.32/ultimateV1045-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.0/ultimateV1046-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.0/ultimateV1046-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.0/ultimateV1046-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3045,
-    "armeabi-v7a": 2045,
-    "x86_64": 5045
+    "arm64-v8a": 3046,
+    "armeabi-v7a": 2046,
+    "x86_64": 5046
   },
-  "changelog": "• Choix de la langue et du pays au premier lancement\n• Avatars de profils mieux cadrés et plus lisibles\n• Mise à jour plus légère, adaptée automatiquement à votre appareil\n• Corrections de stabilité et d’affichage",
+  "changelog": "• Le champ de saisie ne se cache plus sous le clavier lors de l'ajout d'un compte\n• Meilleure reprise de lecture après veille prolongée de la TV\n• Transition plus fluide entre les épisodes d'une série\n• Mise à jour plus fiable sur certains boîtiers\n• Corrections de stabilité et de synchronisation",
   "mandatory": false
 }
