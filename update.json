@@ -1,17 +1,17 @@
 {
-  "version": "9.0.1",
-  "build": 1047,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.1/ultimateV1047.apk",
+  "version": "9.0.2",
+  "build": 1048,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.2/ultimateV1048.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.1/ultimateV1047-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.1/ultimateV1047-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.1/ultimateV1047-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.2/ultimateV1048-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.2/ultimateV1048-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.2/ultimateV1048-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3047,
-    "armeabi-v7a": 2047,
-    "x86_64": 5047
+    "arm64-v8a": 3048,
+    "armeabi-v7a": 2048,
+    "x86_64": 5048
   },
-  "changelog": "• Reprise de lecture des séries : revient bien sur le dernier épisode regardé\n• Correction d'un plantage lors du changement de fournisseur IPTV\n• L'écran plein écran n'affiche plus l'ancien épisode/chaîne\n• Onglet Séries repositionné avant Films\n• Navigation manette : le bouton Guide TV n'est plus sauté",
+  "changelog": "• Correction d'un blocage lors du passage à l'épisode suivant (la vidéo jouait mais l'écran restait bloqué sur le chargement)\n• Les pochettes ne scintillent plus\n• Le curseur manette ne se perd plus lors d'un défilement rapide\n• Les avatars importés depuis le tableau de bord sont maintenant bien centrés sans fond visible",
   "mandatory": false
 }
