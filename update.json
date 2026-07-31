@@ -1,17 +1,17 @@
 {
-  "version": "9.0.2",
-  "build": 1048,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.2/ultimateV1048.apk",
+  "version": "9.0.3",
+  "build": 1049,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.3/ultimateV1049.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.2/ultimateV1048-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.2/ultimateV1048-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.2/ultimateV1048-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.3/ultimateV1049-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.3/ultimateV1049-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.3/ultimateV1049-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3048,
-    "armeabi-v7a": 2048,
-    "x86_64": 5048
+    "arm64-v8a": 3049,
+    "armeabi-v7a": 2049,
+    "x86_64": 5049
   },
-  "changelog": "• Correction d'un blocage lors du passage à l'épisode suivant (la vidéo jouait mais l'écran restait bloqué sur le chargement)\n• Les pochettes ne scintillent plus\n• Le curseur manette ne se perd plus lors d'un défilement rapide\n• Les avatars importés depuis le tableau de bord sont maintenant bien centrés sans fond visible",
+  "changelog": "• La grille de films et séries affiche maintenant le bon nombre de colonnes sur TV",
   "mandatory": false
 }
