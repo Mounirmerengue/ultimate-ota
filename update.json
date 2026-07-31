@@ -1,17 +1,17 @@
 {
-  "version": "9.0.3",
-  "build": 1049,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.3/ultimateV1049.apk",
+  "version": "9.1.0",
+  "build": 1050,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.1.0/ultimateV1050.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.3/ultimateV1049-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.3/ultimateV1049-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.0.3/ultimateV1049-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.1.0/ultimateV1050-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.1.0/ultimateV1050-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.1.0/ultimateV1050-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3049,
-    "armeabi-v7a": 2049,
-    "x86_64": 5049
+    "arm64-v8a": 3050,
+    "armeabi-v7a": 2050,
+    "x86_64": 5050
   },
-  "changelog": "• La grille de films et séries affiche maintenant le bon nombre de colonnes sur TV",
+  "changelog": "• Nouvelle interface mobile pour Films et Séries : écran vedette immersif et rangées de contenu défilantes\n• Correction de la grille TV (bon nombre de colonnes)\n• Correction du plantage lors du passage à l'épisode suivant\n• Corrections diverses (curseur manette, avatars, scintillement)",
   "mandatory": false
 }
