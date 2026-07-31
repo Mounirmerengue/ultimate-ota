@@ -1,17 +1,17 @@
 {
-  "version": "9.3.1",
-  "build": 1053,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.3.1/ultimateV1053.apk",
+  "version": "9.4.0",
+  "build": 1054,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.0/ultimateV1054.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.3.1/ultimateV1053-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.3.1/ultimateV1053-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.3.1/ultimateV1053-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.0/ultimateV1054-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.0/ultimateV1054-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.0/ultimateV1054-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3053,
-    "armeabi-v7a": 2053,
-    "x86_64": 5053
+    "arm64-v8a": 3054,
+    "armeabi-v7a": 2054,
+    "x86_64": 5054
   },
-  "changelog": "• L'onglet Accueil affiche plus de contenu à l'écran (pochettes plus petites)\n• Les chaînes favorites s'affichent maintenant correctement (sans déformation)\n• L'application s'ouvre directement sur l'onglet Accueil",
+  "changelog": "• Synchronisation cloud et calendrier sportif réparés\n• Les fonctionnalités Ultra/Premium sont maintenant visibles avec un cadenas pour les comptes Free\n• L'écran Accueil peut être personnalisé depuis le tableau de bord web\n• Plus de compétitions sportives disponibles, recherche de ligues améliorée\n• Affichage de la chaîne TV qui diffuse chaque match",
   "mandatory": false
 }
