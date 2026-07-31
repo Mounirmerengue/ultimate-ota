@@ -1,17 +1,17 @@
 {
-  "version": "9.4.0",
-  "build": 1054,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.0/ultimateV1054.apk",
+  "version": "9.4.1",
+  "build": 1056,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.1/ultimateV1056.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.0/ultimateV1054-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.0/ultimateV1054-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.0/ultimateV1054-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.1/ultimateV1056-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.1/ultimateV1056-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.4.1/ultimateV1056-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3054,
-    "armeabi-v7a": 2054,
-    "x86_64": 5054
+    "arm64-v8a": 3056,
+    "armeabi-v7a": 2056,
+    "x86_64": 5056
   },
-  "changelog": "• Synchronisation cloud et calendrier sportif réparés\n• Les fonctionnalités Ultra/Premium sont maintenant visibles avec un cadenas pour les comptes Free\n• L'écran Accueil peut être personnalisé depuis le tableau de bord web\n• Plus de compétitions sportives disponibles, recherche de ligues améliorée\n• Affichage de la chaîne TV qui diffuse chaque match",
+  "changelog": "• L'écran d'accueil se personnalise depuis le tableau de bord web (sections au choix, réorganisables)\n• Navigation à la télécommande plus fluide dans les rangées\n• Réglages et rubrique Sports mieux adaptés à l'écran TV\n• Les enregistrements sont maintenant accessibles pour être transférés vers un cloud ou un NAS\n• Meilleure qualité d'image des enregistrements",
   "mandatory": false
 }
