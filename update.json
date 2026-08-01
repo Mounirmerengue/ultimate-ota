@@ -1,17 +1,17 @@
 {
-  "version": "9.5.0",
-  "build": 1095,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.0/ultimateV1095.apk",
+  "version": "9.5.1",
+  "build": 1096,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.1/ultimateV1096.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.0/ultimateV1095-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.0/ultimateV1095-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.0/ultimateV1095-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.1/ultimateV1096-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.1/ultimateV1096-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.1/ultimateV1096-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3095,
-    "armeabi-v7a": 2095,
-    "x86_64": 5095
+    "arm64-v8a": 3096,
+    "armeabi-v7a": 2096,
+    "x86_64": 5096
   },
-  "changelog": "• Améliorations de l'application\n• Navigation plus fluide\n• Corrections de bugs",
+  "changelog": "• Accueil plus rapide et favoris synchronisés\n• Enregistrements récurrents et stockage TV améliorés\n• Lecture plus stable avec erreurs fournisseur plus claires\n• Profils enfants, PIN et préférences mieux synchronisés\n• Navigation TV et affichages corrigés",
   "mandatory": false
 }
