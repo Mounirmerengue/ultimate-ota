@@ -1,17 +1,17 @@
 {
-  "version": "9.5.2",
-  "build": 1098,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.2/ultimateV1098.apk",
+  "version": "9.5.3",
+  "build": 1102,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.3/ultimateV1102.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.2/ultimateV1098-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.2/ultimateV1098-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.2/ultimateV1098-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.3/ultimateV1102-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.3/ultimateV1102-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.3/ultimateV1102-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3098,
-    "armeabi-v7a": 2098,
-    "x86_64": 5098
+    "arm64-v8a": 3102,
+    "armeabi-v7a": 2102,
+    "x86_64": 5102
   },
-  "changelog": "• Changement de chaîne et lancement vidéo plus rapides\n• Correction des erreurs d’affichage Overlay et GlobalKey\n• Accueil plus stable avec des rails portant le même nom\n• Corrections générales de stabilité",
+  "changelog": "• Sélecteur de langue et pays plus visible dans les paramètres d’apparence\n• Amélioration de la recherche de ligue sportive\n• Corrections de stabilité et optimisations",
   "mandatory": false
 }
