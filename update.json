@@ -1,17 +1,17 @@
 {
-  "version": "9.5.3",
-  "build": 1102,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.3/ultimateV1102.apk",
+  "version": "9.5.5",
+  "build": 2112,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.5/ultimateV2112.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.3/ultimateV1102-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.3/ultimateV1102-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.3/ultimateV1102-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.5/ultimateV2112-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.5/ultimateV2112-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.5/ultimateV2112-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 3102,
-    "armeabi-v7a": 2102,
-    "x86_64": 5102
+    "arm64-v8a": 4112,
+    "armeabi-v7a": 3112,
+    "x86_64": 6112
   },
-  "changelog": "• Selecteur de langue et pays plus visible dans les parametres d’apparence\n• Amelioration de la recherche de ligue sportive\n• Corrections de stabilite et optimisations",
+  "changelog": "• Accès direct à l’accueil avec le dernier profil utilisé\n• Multivue plus clair, plus réactif et meilleure gestion du son\n• Message explicite lorsque l’abonnement ne permet qu’une connexion\n• Nouveau bouton Donner mon avis dans les paramètres\n• Corrections de stabilité et d’affichage",
   "mandatory": false
 }
