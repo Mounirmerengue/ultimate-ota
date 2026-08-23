@@ -1,17 +1,17 @@
 {
-  "version": "9.5.5",
-  "build": 2112,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.5/ultimateV2112.apk",
+  "version": "9.5.6",
+  "build": 3162,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.6/ultimateV3162.apk",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.5/ultimateV2112-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.5/ultimateV2112-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.5/ultimateV2112-x86_64.apk"
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.6/ultimateV3162-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.6/ultimateV3162-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v9.5.6/ultimateV3162-x86_64.apk"
   },
   "apkBuilds": {
-    "arm64-v8a": 4112,
-    "armeabi-v7a": 3112,
-    "x86_64": 6112
+    "arm64-v8a": 5162,
+    "armeabi-v7a": 4162,
+    "x86_64": 7162
   },
-  "changelog": "• Accès direct à l’accueil avec le dernier profil utilisé\n• Multivue plus clair, plus réactif et meilleure gestion du son\n• Message explicite lorsque l’abonnement ne permet qu’une connexion\n• Nouveau bouton Donner mon avis dans les paramètres\n• Corrections de stabilité et d’affichage",
+  "changelog": "• Navigation à la télécommande nettement plus fluide et plus sûre\n• Les séries et films en cours restent dans « Reprendre »\n• Sports : score en direct, matchs terminés à jour, mise en page revue\n• Écran de chargement des fiches série et film\n• Corrections d'affichage et de stabilité",
   "mandatory": false
 }
