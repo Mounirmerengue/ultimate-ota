@@ -12,7 +12,7 @@
                       "armeabi-v7a":  31151,
                       "x86_64":  31151
                   },
-    "firestickApkUrl":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31151/ultimateV31151-firestick.apk",
+    "firestickApkUrl":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31151/Noria-FireTV-Compat.apk",
     "changelog":  "NORIA 10.1.0 - Build 31151. Corrections Guide TV, recherche, EPG et Replay.",
     "mandatory":  false
 }
