@@ -1,18 +1,18 @@
-{
+﻿{
     "version":  "10.1.0",
-    "build":  31151,
-    "apkUrl":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31151/ultimateV31151.apk",
+    "build":  31152,
+    "apkUrl":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31152/ultimateV31152.apk",
     "apkUrls":  {
-                    "arm64-v8a":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31151/ultimateV31151-arm64-v8a.apk",
-                    "armeabi-v7a":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31151/ultimateV31151-armeabi-v7a.apk",
-                    "x86_64":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31151/ultimateV31151-x86_64.apk"
+                    "arm64-v8a":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31152/ultimateV31152-arm64-v8a.apk",
+                    "armeabi-v7a":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31152/ultimateV31152-armeabi-v7a.apk",
+                    "x86_64":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31152/ultimateV31152-x86_64.apk"
                 },
     "apkBuilds":  {
-                      "arm64-v8a":  31151,
-                      "armeabi-v7a":  31151,
-                      "x86_64":  31151
+                      "arm64-v8a":  31152,
+                      "armeabi-v7a":  31152,
+                      "x86_64":  31152
                   },
-    "firestickApkUrl":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31151/Noria-FireTV-Compat.apk",
-    "changelog":  "NORIA 10.1.0 - Build 31151. Corrections Guide TV, recherche, EPG et Replay.",
+    "firestickApkUrl":  "https://github.com/Mounirmerengue/ultimate-ota/releases/download/v10.1.0-build31152/Noria-FireTV-Compat.apk",
+    "changelog":  "NORIA 10.1.0 - Build 31152. Halo Séries Reprendre et politique OTA obligatoire après 24 heures.",
     "mandatory":  false
 }
